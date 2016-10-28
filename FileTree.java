@@ -5,7 +5,7 @@ import java.lang.reflect.*;
 import java.util.stream.Collectors;
 import java.lang.annotation.*;
 
-/** 
+/**
  * Has some small methods that show off some filesystem apis and some
  * reflection apis in addition to a command line interface to those.
  */
